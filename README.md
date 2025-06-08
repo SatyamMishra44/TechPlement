@@ -40,7 +40,8 @@ javac QuizGeneratorApp.java
 # 2. Run the application
 java QuizGeneratorApp
 
-### 🧾 Sample CLI Interaction
+
+
 
 
 
